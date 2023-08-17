@@ -6,6 +6,8 @@ body {
 /*nev releted styles */
 nav {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .pcolor {
@@ -15,6 +17,11 @@ nav {
 .btn-pri {
     border-radius: 5px;
     background: #FD6E0A;
+    border: 0px;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    padding: 15px 35px;
 }
 
 .mtitle {
@@ -25,6 +32,7 @@ nav {
 
 nav>ul {
     display: flex;
+    align-items: center;
 }
 
 nav li {
