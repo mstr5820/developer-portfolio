@@ -1,0 +1,38 @@
+/* font styles*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*nev releted styles */
+nav {
+    display: flex;
+}
+
+.pcolor {
+    color: #FD6E0A;
+}
+
+.btn-pri {
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+
+.mtitle {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav>ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
