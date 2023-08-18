@@ -93,6 +93,12 @@ nav a {
 }
 
 /* main section */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
+/* about section */
 .about {
     padding: 130px;
     border-radius: 10px;
@@ -114,4 +120,11 @@ nav a {
     font-weight: 400;
 }
 
-/* about section */
+.abinfo-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.abinfo{
+    text-align: center;
+}
