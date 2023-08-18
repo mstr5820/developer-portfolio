@@ -93,7 +93,7 @@ nav a {
 }
 
 /* main section */
-main{
+main {
     max-width: 1140px;
     margin: 0px auto;
 }
@@ -120,11 +120,32 @@ main{
     font-weight: 400;
 }
 
-.abinfo-con{
+.abinfo-con {
     display: flex;
     justify-content: space-between;
 }
 
-.abinfo{
+.abinfo {
     text-align: center;
+}
+
+.info-title {
+    color: #757575;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.info-dis {
+    color:  #474747;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#whatido {
+    padding: 30px 150px;
+}
+
+.skill-con{
+    display: flex;
 }
