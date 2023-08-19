@@ -206,3 +206,11 @@ main>section {
     margin-top: 50px;
     margin-bottom: 113px;
 }
+
+/* foter style */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+}
