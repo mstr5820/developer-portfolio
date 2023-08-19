@@ -177,4 +177,32 @@ main>section {
 .recon {
     display: flex;
     gap: 70px;
+    text-align: center;
+}
+
+.reitem-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.reitem-inst {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.reitem-dic {
+    color:  #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
 }
